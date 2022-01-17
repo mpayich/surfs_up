@@ -9,7 +9,7 @@ The purpose of this analysis is to look at temperature data for the months of Ju
 
 ## June Temperate Statistics
 The following table summarizes temperature data in Oahu for the month of June:
-![June](June.png)
+![June](<img width="136" alt="June" src="https://user-images.githubusercontent.com/93686998/149699936-4fb475f8-8bea-4892-8034-0ae7405a5d38.png">)
 The average temperature in June is about 75 degrees while the min temp is 64 and the max is 85.
 
 ## December Temperature Statistics
